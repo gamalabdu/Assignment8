@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  margin:0;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+.grid-cell {
+  height: 25px;
+  width: 25px;
+  border: 1px solid gray;
+  border-collapse: collapse;
+  padding: 10px;
+}
